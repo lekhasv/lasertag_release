@@ -1,1 +1,1 @@
-# lasertag_release
+# Прошивка для пульта от игры LaserTag
